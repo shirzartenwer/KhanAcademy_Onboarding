@@ -1,4 +1,4 @@
-# Khan Academy Onboarding Prototype
+# Khan Academy Onboarding Prototype Done for the Stanford Product Management Program
 
 An interactive onboarding experience prototype for Khan Academy that introduces users to the platform through avatar creation and personalization.
 
